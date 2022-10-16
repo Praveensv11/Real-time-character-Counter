@@ -43,10 +43,10 @@ body{
     font-size: 17px;
 }
 .total-counter{
-    color: slateblue;
+    color: yellow;
 }
 .remaining-counter{
-    color: slateblue;
+    color: yellow;
 }
 h1{
     text-align: center;
